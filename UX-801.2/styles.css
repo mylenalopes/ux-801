@@ -1,0 +1,159 @@
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #00004E;
+}
+
+p {
+    font-family: 'FreightBig Pro';
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    width: 375px;
+    height: auto;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 10px;
+    color: #00004E;
+    margin: 20px 20px 10px 20px;
+    line-height: 20px;
+}
+
+.titulo {
+    font-family: 'FreightBig Pro';
+    text-align: center;
+    font-size: 28px;
+    margin: 2px 20px 40px 20px;
+}
+
+.legenda {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.buttonassine {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    background-color: #7357FF;
+    color: #FFFFFF;
+    border-radius: 22px;
+    width: 253px;
+    height: 44px;
+    border:none!important;
+    margin: 5px 5px 5px;
+    font-weight: 500;
+}
+
+.buttonacess {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    background-color: #f4f4f4;
+    color: #00004E;
+    border-radius: 22px;
+    border-color: #00004E;
+    width: 145px;
+    height: 30px;
+    margin: 5px 5px 10px;
+    font-weight: 500;
+}
+
+.button:link {
+    color: #ffffff;
+}
+
+body{
+   -webkit-text-size-adjust: 100%; 
+   -ms-text-size-adjust: 100%;
+    margin: 0; 
+    padding: 0; 
+    background-color: #f2f2f2;
+}
+
+.OuterContainer {
+   padding: 0; 
+   margin: 0 auto; 
+   width: 375px;
+   height: 667px;
+   background-color: #f4f4f4;
+}
+
+.final{
+    padding: 10px; 
+    background-color: #00004E; 
+    margin: 20px 5px 20px 20px;
+    text-align: center;
+}
+
+.elementos {
+    margin: 50px 50px 50px 50px;
+    padding: auto;
+    text-align: center;
+}
+
+.logo {
+    width: 230px;
+    height: 80px;
+    margin: 20px 5px 1px 1px;
+}
+
+.line {
+    width: 302px;
+    height: 0.1px;
+    margin: auto;
+    background-image: linear-gradient(to left, #7e57ff, #fb7d4e);
+    max-width: 1280px;
+    border: none!important;
+}
+
+.footer-content{
+    text-align: center;
+    display: inline-block;
+}
+
+.iconfb {
+    height: 15px;
+    margin: 20px 10px 1px 1px;
+}
+
+.iconinsta {
+    height: 15px;
+    margin: 20px 10px 1px 1px;
+}
+
+.icontt {
+    height: 15px;
+    margin: 20px 10px 1px 1px;
+}
+
+.iconytb {
+    height: 15px;
+    margin: 20px 10px 1px 1px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.rules{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 8px;
+    margin: 10px 10px 8px 10px;
+}
+
+#link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
